@@ -1,0 +1,8 @@
+apply plugin:'java'
+archivesBaseName='hr_pl'
+dependencies
+{
+compile fileTree(dir:'lib',include:'*.jar')
+}
+//sourceSets.main.resources.srcDirs = [ "src/main/" ]
+//sourceSets.main.resources.includes = [ "**/*.png" ]
