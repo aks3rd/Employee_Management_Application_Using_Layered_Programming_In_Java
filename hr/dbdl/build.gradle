@@ -1,0 +1,5 @@
+apply plugin:'java'
+archivesBaseName='hr_dbdl'
+dependencies{
+compile fileTree(dir:'lib',include:'*.jar')
+}

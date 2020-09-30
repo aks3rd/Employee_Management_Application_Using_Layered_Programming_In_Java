@@ -1,0 +1,1 @@
+javac -d C:\javaeg\hr\bl\classes -classpath c:\javaeg\hr\bl\lib\*;C:\javaeg\hr\bl\classes;. *.java

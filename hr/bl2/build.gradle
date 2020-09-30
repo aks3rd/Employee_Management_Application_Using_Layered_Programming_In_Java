@@ -1,0 +1,5 @@
+apply plugin:'java'
+archivesBaseName='hr_bl'
+dependencies{
+compile fileTree(dir:'lib',include:'*.jar')
+}
